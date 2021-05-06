@@ -1,0 +1,20 @@
+C:\Users\oktay\Documents\Ybs\C#\Oyun_1\bin\Debug\Oyun_1.exe.config
+C:\Users\oktay\Documents\Ybs\C#\Oyun_1\bin\Debug\Oyun_1.exe
+C:\Users\oktay\Documents\Ybs\C#\Oyun_1\bin\Debug\Oyun_1.pdb
+C:\Users\oktay\Documents\Ybs\C#\Oyun_1\obj\Debug\Oyun_1.csprojAssemblyReference.cache
+C:\Users\oktay\Documents\Ybs\C#\Oyun_1\obj\Debug\Oyun_1.Form1.resources
+C:\Users\oktay\Documents\Ybs\C#\Oyun_1\obj\Debug\Oyun_1.Properties.Resources.resources
+C:\Users\oktay\Documents\Ybs\C#\Oyun_1\obj\Debug\Oyun_1.csproj.GenerateResource.cache
+C:\Users\oktay\Documents\Ybs\C#\Oyun_1\obj\Debug\Oyun_1.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Documents\Ybs\C#\Oyun_1\obj\Debug\Oyun_1.exe
+C:\Users\oktay\Documents\Ybs\C#\Oyun_1\obj\Debug\Oyun_1.pdb
+E:\C# Programlama\Oyun_1\bin\Debug\Oyun_1.exe.config
+E:\C# Programlama\Oyun_1\bin\Debug\Oyun_1.exe
+E:\C# Programlama\Oyun_1\bin\Debug\Oyun_1.pdb
+E:\C# Programlama\Oyun_1\obj\Debug\Oyun_1.csprojAssemblyReference.cache
+E:\C# Programlama\Oyun_1\obj\Debug\Oyun_1.Form1.resources
+E:\C# Programlama\Oyun_1\obj\Debug\Oyun_1.Properties.Resources.resources
+E:\C# Programlama\Oyun_1\obj\Debug\Oyun_1.csproj.GenerateResource.cache
+E:\C# Programlama\Oyun_1\obj\Debug\Oyun_1.csproj.CoreCompileInputs.cache
+E:\C# Programlama\Oyun_1\obj\Debug\Oyun_1.exe
+E:\C# Programlama\Oyun_1\obj\Debug\Oyun_1.pdb
